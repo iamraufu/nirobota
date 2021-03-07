@@ -1,0 +1,22 @@
+@import url('https://fonts.maateen.me/bangla/font.css');
+@import url('https://fonts.maateen.me/charukola-ultra-light/font.css');
+* {
+    font-family: 'CharukolaUltraLight', 'Bangla', sans-serif;
+}
+
+.App-header {
+    height: 100vh;
+    background-color: #f0db4f;
+    margin-top: 0;
+}
+
+h1 {
+    margin: auto;
+    width: 115px;
+    padding: 0;
+}
+
+img {
+    width: 300px;
+    height: 20%;
+}
